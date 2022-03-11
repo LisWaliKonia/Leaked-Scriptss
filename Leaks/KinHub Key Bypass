@@ -314,4 +314,5 @@ LoginButton.MouseButton1Click:Connect(function()
 if InputedKeys.Text =="Leaked" then
 Main.Visible = false
     script()
+    end
 end)
